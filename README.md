@@ -1,4 +1,4 @@
-## ✌️ Welcome to my Account!
+## ✌️ Welcome to my Profile!
 🔭 I'm a **programmer/coder** (sometimes an **artist/animator**) of several *mods* for the game ***Friday Night Funkin'***
 
 ### 👾 My **own** and **main** project:
