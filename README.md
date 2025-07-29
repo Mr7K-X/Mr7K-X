@@ -1,13 +1,6 @@
 ## ✌️ Welcome to my Profile!
 🔭 I'm a **programmer/coder** (sometimes an **artist/animator**) of several *mods* for the game ***Friday Night Funkin'***
 
-### 👾 My **own** and **main** project:
-💎 **Tempo Engine** - Engine for *modding* the game **Friday Night Funkin'** with *more* developed **source code**, **scripts** and **editors**!
-![](./tempo.png)
-
-💠 **And More Tempo-Projects**
-![](./tempoProjects.png)
-
 ### 📃 List of mods I **worked** in (and am *working* in some at the moment):
  - 🐻 Vs. Flippy: Ultimate Out! (**CURRENTLY WORKING**)
  - 😈 Finality End - Nightmare Awaking / Alpha Timeline (**CURRENTLY WORKING**)
