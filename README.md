@@ -1,7 +1,7 @@
 ## ✌️ Welcome to my Profile!
 🔭 I'm a **programmer/coder** (sometimes an **artist/animator**) of several *mods* for the game ***Friday Night Funkin'***
 
-<div align='center'><a href="https://gamejolt.com/games/flippy_ultimate/785321"><img src="new_banner_2.png" width="800"></a> </div>
+<div align='center'><a style="font-size: 32px"><b>CHECK OUT A VS FLIPPY ULTIMATE OUT! DEMO 0.2.0!</b></a><a href="https://gamejolt.com/games/flippy_ultimate/785321"><img src="new_banner_2.png" width="800"></a> </div>
 
 ### 📃 List of mods I **worked** in (and am *working* in some at the moment):
  - 🐻 Vs. Flippy: Ultimate Out! (**CURRENTLY WORKING**)
