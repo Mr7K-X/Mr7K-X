@@ -3,10 +3,9 @@
 
 ### 📃 List of mods I **worked** in (and am *working* in some at the moment):
  - 🐻 Vs. Flippy: Ultimate Out! (**CURRENTLY WORKING**)
- - 😈 Finality End - Nightmare Awaking / Alpha Timeline (**CURRENTLY WORKING**)
- - 🐭 SNS: Resuffered (**IN FROZEN, BUT STILL I WORKING**)
+ - 💎 FNF' Entity: Mrzk Version (**IN SOMETIMES, BUT WORKING**)
+ - 🐭 SNS: Resuffered (**IN FROZEN**)
  - 🐻 Vs. Flippy: Mrzk Version
- - 💎 FNF' Entity: Mrzk Version
  - 🐭 SNS: Community Build
  - 🐻 Vs. Flippy Psych Port
  - 🐻 Vs. Flippy: Flipped Out! Psych Port
