@@ -10,15 +10,6 @@
 
 </div>
 
-### 📃 List of mods I **worked** in (and am *working* in some at the moment):
- - 🐻 Vs. Flippy: Ultimate Out! (**CURRENTLY WORKING**)
- - 💎 FNF' Entity: Mrzk Version (**IN SOMETIMES, BUT WORKING**)
- - 🐭 SNS: Resuffered (**IN FROZEN**)
- - 🐻 Vs. Flippy: Mrzk Version
- - 🐭 SNS: Community Build
- - 🐻 Vs. Flippy Psych Port
- - 🐻 Vs. Flippy: Flipped Out! Psych Port
-
 <!--
 **Mr7K-X/Mr7K-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
